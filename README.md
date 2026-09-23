@@ -22,7 +22,7 @@ The analysis was conducted using Python and covers the distribution of AI vs. no
 
 ## Dataset Source
 
-Kaggle: [AI Job Market Dataset]([https://www.kaggle.com/datasets/mariaaqdas/ai-job-market-2026-automation-vs-traditional-role])
+Kaggle: [AI Job Market Dataset](https://www.kaggle.com/datasets/mariaaqdas/ai-job-market-2026-automation-vs-traditional-role)
 
 ### Key Columns Used
 
