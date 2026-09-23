@@ -20,6 +20,10 @@ The analysis was conducted using Python and covers the distribution of AI vs. no
 | **Non-AI postings** | 675 (39.80%) |
 | **Excluded column** | `description` — no NLP analysis performed |
 
+## Dataset Source
+
+Kaggle: [AI Job Market Dataset]([https://www.kaggle.com/datasets/mariaaqdas/ai-job-market-2026-automation-vs-traditional-role])
+
 ### Key Columns Used
 
 | Column | Description |
