@@ -112,7 +112,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 
 # 3. Launch Jupyter
-jupyter notebook ai_job_market_analysis.ipynb
+jupyter notebook Bhaskar_Prakash_More_AIJobMarketAnalysis.ipynb
 ```
 
 ---
