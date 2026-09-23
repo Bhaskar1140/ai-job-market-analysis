@@ -121,8 +121,8 @@ jupyter notebook ai_job_market_analysis.ipynb
 
 | File | Description |
 |---|---|
-| `ai_job_market_analysis.ipynb` | Main analysis notebook |
+| `Bhaskar_Prakash_More_AIJobMarketAnalysis.ipynb` | Main analysis notebook |
 | `ai_job_market_dataset.clean.xlsx` | Pre-cleaned dataset |
 | `requirements.txt` | Python dependency list |
 | `README.md` | This file |
-| `Project_Report.docx` | Written project report with findings |
+| `Bhaskar_Prakash_More_ProjectReport.docx` | Written project report with findings |
